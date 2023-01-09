@@ -16,7 +16,6 @@ Figure 1.2: List of classes used in buttonlist
 </p>
 
 <br>
-<br>
 
 ### 2. cache_sim - Cache Simulator: Models 7 different cache configs and prints: # of hits & hit rate & etc.
 <p align = "center">
@@ -32,7 +31,6 @@ Figure 2.2: Terminal Output of Cache Simulator (2)
   <br>
 </p>
 
-<br>
 <br>
 
 ### 3. mips_emu_pipeline - MIPS Emulator with Pipelines. Runs basic MIPS assembly program while passing instr to pipelines.
@@ -55,7 +53,6 @@ Figure 3.3: Terminal Output of MIPS Emulator with Pipelines (3)
 </p>
 
 <br>
-<br>
 
 ### 4. mips_emu - MIPS Emulator. Runs basic MIPS assembly program.
 <p align = "center">
@@ -77,7 +74,6 @@ Figure 4.3: Terminal Output of MIPS Emulator (3)
 </p>
 
 <br>
-<br>
 
 ### 5. assembly_parser - Translates / Parses Assembly Program to Machine Code (Binary).
 <p align = "center">
@@ -88,5 +84,4 @@ Figure 5: Output File after Assembly Code is parsed into Machine Code.
   <br>
 </p>
 
-<br>
 <br>
