@@ -49,7 +49,7 @@ Figure 3.2: Terminal Output of MIPS Emulator with Pipelines (2)
   <br>
 <img src = "https://github.com/darylng154/Projects/blob/main/README_files/mips_emu_pipeline-3.png?raw=true" width=50% height=50%>
   <br>
-Figure 3.1: Terminal Output of MIPS Emulator with Pipelines (3)
+Figure 3.3: Terminal Output of MIPS Emulator with Pipelines (3)
   <br>
   <br>
 </p>
@@ -61,17 +61,17 @@ Figure 3.1: Terminal Output of MIPS Emulator with Pipelines (3)
 <p align = "center">
 <img src = "https://github.com/darylng154/Projects/blob/main/README_files/mips_emu-1.png?raw=true" width=50% height=50%>
   <br>
-Figure 3.1: Terminal Output of MIPS Emulator (1)
+Figure 4.1: Terminal Output of MIPS Emulator (1)
   <br>
   <br>
 <img src = "https://github.com/darylng154/Projects/blob/main//README_files/mips_emu-2.png?raw=true" width=50% height=50%>
   <br>
-Figure 3.2: Terminal Output of MIPS Emulator (2)
+Figure 4.2: Terminal Output of MIPS Emulator (2)
   <br>
   <br>
 <img src = "https://github.com/darylng154/Projects/blob/main/README_files/mips_emu-3.png?raw=true" width=50% height=50%>
   <br>
-Figure 3.1: Terminal Output of MIPS Emulator (3)
+Figure 4.3: Terminal Output of MIPS Emulator (3)
   <br>
   <br>
 </p>
@@ -83,7 +83,7 @@ Figure 3.1: Terminal Output of MIPS Emulator (3)
 <p align = "center">
 <img src = "https://github.com/darylng154/Projects/blob/main/README_files/assembly_parser-1.png?raw=true" width=50% height=50%>
   <br>
-Figure 2.1: Output File after Assembly Code is parsed into Machine Code.
+Figure 4: Output File after Assembly Code is parsed into Machine Code.
   <br>
   <br>
 </p>
