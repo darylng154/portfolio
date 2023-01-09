@@ -83,7 +83,7 @@ Figure 4.3: Terminal Output of MIPS Emulator (3)
 <p align = "center">
 <img src = "https://github.com/darylng154/Projects/blob/main/README_files/assembly_parser-1.png?raw=true" width=50% height=50%>
   <br>
-Figure 4: Output File after Assembly Code is parsed into Machine Code.
+Figure 5: Output File after Assembly Code is parsed into Machine Code.
   <br>
   <br>
 </p>
