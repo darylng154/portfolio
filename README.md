@@ -5,7 +5,7 @@
 <p align="center">
 <img src="https://github.com/darylng154/Projects/blob/main/README_files/buttonlist_classes.png?raw=true" width=50% height=50%>
   <br>
-Figure 1.1: List of key features in buttonlist
+Figure 1.1: List of key features of buttonlist
   <br>
   <br>
 <img src="https://github.com/darylng154/Projects/blob/main//README_files/buttonlist_features.png?raw=true" width=50% height=50%>
