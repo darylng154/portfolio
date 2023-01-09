@@ -19,10 +19,10 @@ Figure 1.2: List of classes used in buttonlist
 
 
 <p align  = "center">
-lab03" lab3 lab4_test2.asm sum_10.script - -
-mips> c
-		Simulator reset
-mips> d
+lab03" lab3 lab4_test2.asm sum_10.script - -  
+mips> c  
+		Simulator reset  
+mips> d  
 
  pc = 0
 $0  = 0        $v0 = 0        $v1 = 0        $a0 = 0        
