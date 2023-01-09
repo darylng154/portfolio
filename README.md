@@ -20,12 +20,12 @@ Figure 1.2: List of classes used in buttonlist
 
 ### 2. cache_sim - Cache Simulator: Models 7 different cache configs and prints: # of hits & hit rate & etc.
 <p align = "center">
-<img src = "https://github.com/darylng154/Projects/blob/main/README_files/cache_sim-1?raw=true" width=50% height=50%>
+<img src = "https://github.com/darylng154/Projects/blob/main/README_files/cache_sim-1.png?raw=true" width=50% height=50%>
   <br>
 Figure 2.1: Terminal Output of Cache Simulator (1)
   <br>
   <br>
-<img src = "https://github.com/darylng154/Projects/blob/main//README_files/cache_sim-2?raw=true" width=50% height=50%>
+<img src = "https://github.com/darylng154/Projects/blob/main//README_files/cache_sim-2.png?raw=true" width=50% height=50%>
   <br>
 Figure 2.2: Terminal Output of Cache Simulator (2)
   <br>
