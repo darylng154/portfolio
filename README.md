@@ -19,7 +19,7 @@ Figure 1.2: List of classes used in buttonlist
 
 
 <p align  = "center">
-"C:\Users\Daru\AppData\Local\Programs\Eclipse Adoptium\jdk-17.0.1.12-hotspot\bin\java.exe" "-javaagent:C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2021.3.2\lib\idea_rt.jar=53661:C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2021.3.2\bin" -Dfile.encoding=UTF-8 -classpath "C:\Users\Daru\Documents\Intellij\CPE 315 (Computer Architecture)\lab03\out\production\lab03" lab3 lab4_test2.asm sum_10.script - -
+lab03" lab3 lab4_test2.asm sum_10.script - -
 mips> c
 		Simulator reset
 mips> d
