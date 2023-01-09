@@ -14,7 +14,9 @@ Figure 1.2: List of classes used in buttonlist
   <br>
   <br>
 </p>
+
 <br>
+
 ### 2. cache_sim - Cache Simulator: Models 7 different cache configs and prints: # of hits & hit rate & etc.
 <p align = "center">
 <img src = "https://github.com/darylng154/Projects/blob/main/README_files/cache_sim-1.png?raw=true" width=50% height=50%>
