@@ -819,6 +819,31 @@ void initEthHeaders(struct eth_header** eth_header, struct pcap_pkthdr* pcap_hea
     } 
 }
 
+void setupPcap(const char* filepath, char* errbuf, struct pcap_pkthdr** pcap_header, const u_char** pcap_data, struct pkt_header** pkt_header)
+{
+    //open pcap file fname
+    pcap_t* fpcap = pcap_open_offline(filepath, errbuf);
+    
+    int pktReadRet = 1;
+    int pktNum = 1;
+    for(pktNum = 1; (pktReadRet = pcap_next_ex(fpcap, pcap_header, pcap_data) != PCAP_ERROR_BREAK); pktNum++)
+    {
+        if(pktReadRet == 0)
+        {
+            perror("Parse pcap failed!!!!");
+            exit(1);
+        }
+        // printPkt(pcap_header, pcap_data);
+
+        initPktHeader(pkt_header, pktNum, *pcap_header);
+        initEthHeaders(&((*pkt_header)->eth_header), *pcap_header, *pcap_data, pktNum);
+        printEthHeaders(*pkt_header);
+    }
+
+    if(fpcap != NULL)
+        pcap_close(fpcap);
+}
+
 int main(int argc, char* argv[])
 {
     if(argc <= 1)
@@ -833,26 +858,7 @@ int main(int argc, char* argv[])
     const u_char* pcap_data = NULL;              //pcap data = Frame Header
     struct pkt_header* pkt_header = NULL;
 
-    pcap_t* fpcap = pcap_open_offline(filepath, errbuf);
-    
-    int pktReadRet = 1;
-    int pktNum = 1;
-    for(pktNum = 1; (pktReadRet = pcap_next_ex(fpcap, &pcap_header, &pcap_data) != PCAP_ERROR_BREAK); pktNum++)
-    {
-        if(pktReadRet == 0)
-        {
-            perror("Parse pcap failed!!!!");
-            exit(1);
-        }
-        // printPkt(pcap_header, pcap_data);
-
-        initPktHeader(&pkt_header, pktNum, pcap_header);
-        initEthHeaders(&(pkt_header->eth_header), pcap_header, pcap_data, pktNum);
-        printEthHeaders(pkt_header);
-    }
-
-    if(fpcap != NULL)
-        pcap_close(fpcap);
+    setupPcap(filepath, errbuf, &pcap_header, &pcap_data, &pkt_header);
 
     return 0;
 }

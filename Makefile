@@ -11,7 +11,7 @@ all:  trace
 trace: trace.c
 	$(CC) $(CFLAGS) -o trace trace.c checksum.c -lpcap 
 
-clean:
+clean: clean_outputs
 	rm -f trace
 
 exec: 
@@ -50,5 +50,8 @@ diff:
 	diff -w -B ./testcases/mix_withIPoptions.pcap.out ./outputs/mix_withIPoptions.pcap.me
 #	IP
 	diff -w -B ./testcases/IP_bad_checksum.pcap.out ./outputs/IP_bad_checksum.pcap.me
+
+clean_outputs:
+	rm -f ./outputs/*.me
 
 test: exec diff
