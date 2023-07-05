@@ -15,7 +15,7 @@ Flutter:
 C:
 </p>
 
-[1. trace](#1.-trace)
+[1. trace](#1-trace)
 
 <p>
 Java:
