@@ -46,6 +46,7 @@ and Directions API.
   <br>
 4) Provide my clients with documented code to continue the project.
   <br>
+  <br>
 Date: Mar 2023 - June 2023
   <br>
 Language: Flutter / Dart
@@ -103,6 +104,7 @@ Description:
   <br>
 Users can login or create an account that will be stored in the backend. When creating a new account, users can select their desired account type so they will be routed to the correct page upon logging in. After submitting all fields, the user will be sent a verification code in their email to verify their account. Once a verified account logs in, they are routed to a page based on account type (shipper, transporter, dispatcher, or admin). From there, each actor (account type) has certain actions and pages available to them.
   <br>
+  <br>
 Date: Jan 2023 - Mar 2023
   <br>
 Language: Flutter / Dart
@@ -118,6 +120,7 @@ Video Links:
 Description: 
   <br>
 Client requested an infinite scrollable package list for Android & IOS in 10 weeks using Flutter.
+  <br>
   <br>
 Date: Sept 2023 - Dec 2023
   <br>
@@ -145,6 +148,7 @@ Description:
   <br>
 Parses Ethernet, ARP, IP: ICMP, TCP, UDP Header information from Wire Shark Pcap files to an outputted file.
   <br>
+  <br>
 Date: Jan 2023 - Mar 2023
   <br>
 Language: C
@@ -165,6 +169,7 @@ Packet #22's Ethernet, IP, TCP Header information parsed.
 Description: 
   <br>
 Cache Simulator: Models 7 different cache configs and prints: # of hits & hit rate & etc.
+  <br>
   <br>
 Date: Jan 2022 - Mar 2022
   <br>
@@ -192,6 +197,7 @@ Terminal Output of Cache Simulator (2)
 Description: 
   <br>
 MIPS Emulator with Pipelines. Runs basic MIPS assembly program while passing instr to pipelines.
+  <br>
   <br>
 Date: Jan 2022 - Mar 2022
   <br>
@@ -225,6 +231,7 @@ Description:
   <br>
 MIPS Emulator. Runs basic MIPS assembly program.
   <br>
+  <br>
 Date: Jan 2022 - Mar 2022
   <br>
 Language: Java
@@ -256,6 +263,7 @@ erminal Output of MIPS Emulator (3)
 Description: 
   <br>
 Translates / Parses Assembly Program to Machine Code (Binary).
+  <br>
   <br>
 Date: Jan 2022 - Mar 2022
   <br>
