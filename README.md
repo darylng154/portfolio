@@ -49,8 +49,8 @@ Language: Flutter / Dart
 </p>
 
 <p align = "center">
-<img src = "https://github.com/darylng154/Projects/blob/main/README_files/google_maps/transporter_home.png?raw=true" width=10% height=10%>
-<img src = "https://github.com/darylng154/Projects/blob/main/README_files/google_maps/slo_to_san_diego_map.png?raw=true" width=10% height=10%>
+<img src = "https://github.com/darylng154/Projects/blob/main/README_files/google_maps/transporter_home.png?raw=true" width=30% height=30%>
+<img src = "https://github.com/darylng154/Projects/blob/main/README_files/google_maps/slo_to_san_diego_map.png?raw=true" width=30% height=30%>
   <br>
 Google Maps Button for Transporter Home & Testing Screen
   <br>
