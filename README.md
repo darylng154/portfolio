@@ -3,16 +3,20 @@
 Started this repository in 2023 to display interesting projects I have worked on.
 
 Table of Contents
+
 Flutter:
 
 C:
+
 [1. trace](#trace)
 
 Java:
 
+
 ### trace
 <p>
-Description: Parses Ethernet, ARP, IP: ICMP, TCP, UDP Header information from Wire Shark Pcap files to an outputted file.
+Description: 
+Parses Ethernet, ARP, IP: ICMP, TCP, UDP Header information from Wire Shark Pcap files to an outputted file.
   <br>
 Date: Jan 2023 - Mar 2023
   <br>
