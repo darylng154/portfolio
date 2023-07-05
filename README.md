@@ -15,8 +15,11 @@ C:
 Java:
 
 [1. cache_sim](#cache_sim)
+
 [2. mips_emu_pipeline](#mips_emu_pipeline)
+
 [3. mips_emu](#mips_emu)
+
 [4. assembly_parser](#assembly_parser)
 
 
