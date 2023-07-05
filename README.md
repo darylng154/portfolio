@@ -1,9 +1,13 @@
 # Projects
-### Started this repository in 2023 to display interesting projects I have worked on. Each branch contains the source code of the following projects:
+### Started this repository in 2023 to display interesting projects I have worked on.
 
-### 1. trace -  parses Ethernet, ARP, IP: ICMP, TCP, UDP Header information from Wire Shark Pcap files to an outputted file.
-###    Date: Jan 2023 - Mar 2023
-###    Language: C
+### 1. trace
+<p>
+Description: Parses Ethernet, ARP, IP: ICMP, TCP, UDP Header information from Wire Shark Pcap files to an outputted file.
+Date: Jan 2023 - Mar 2023
+Language: C
+</p>
+
 <p align = "center">
 <img src = "https://github.com/darylng154/Projects/blob/main/README_files/trace-1.png?raw=true" width=50% height=50%>
   <br>
