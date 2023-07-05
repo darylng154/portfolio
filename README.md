@@ -1,10 +1,12 @@
 # Projects
 
-Started this repository in 2023 to display interesting projects I have worked on.
+Started this repository in 2023 to display some of the interesting projects I have worked on.
 
 Table of Contents
 
 Flutter:
+
+[1. buttonlist](#buttonlist)
 
 C:
 
@@ -12,27 +14,11 @@ C:
 
 Java:
 
+[1. cache_sim](#cache_sim)
+[2. mips_emu_pipeline](#mips_emu_pipeline)
+[3. mips_emu](#mips_emu)
+[4. assembly_parser](#assembly_parser)
 
-### trace
-<p>
-Description: 
-  <br>
-Parses Ethernet, ARP, IP: ICMP, TCP, UDP Header information from Wire Shark Pcap files to an outputted file.
-  <br>
-Date: Jan 2023 - Mar 2023
-  <br>
-Language: C
-  <br>
-</p>
-
-<p align = "center">
-<img src = "https://github.com/darylng154/Projects/blob/main/README_files/trace-1.png?raw=true" width=50% height=50%>
-  <br>
-Figure 1.1: Packet #22's Ethernet, IP, TCP Header information parsed.
-  <br>
-  <br>
-</p>
-<br>
 
 ### buttonlist
 <p>
@@ -55,6 +41,27 @@ Figure 1.1: List of key features of buttonlist
 <img src = "https://github.com/darylng154/Projects/blob/main//README_files/buttonlist_features.png?raw=true" width=50% height=50%>
   <br>
 Figure 1.2: List of classes used in buttonlist
+  <br>
+  <br>
+</p>
+<br>
+
+### trace
+<p>
+Description: 
+  <br>
+Parses Ethernet, ARP, IP: ICMP, TCP, UDP Header information from Wire Shark Pcap files to an outputted file.
+  <br>
+Date: Jan 2023 - Mar 2023
+  <br>
+Language: C
+  <br>
+</p>
+
+<p align = "center">
+<img src = "https://github.com/darylng154/Projects/blob/main/README_files/trace-1.png?raw=true" width=50% height=50%>
+  <br>
+Figure 1.1: Packet #22's Ethernet, IP, TCP Header information parsed.
   <br>
   <br>
 </p>
