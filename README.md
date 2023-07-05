@@ -36,10 +36,14 @@ Description:
 The main goal of this project is to incorporate Google Maps features into a clickable Button widget
 with the Google Maps icon on it and provide routing information for my clients’ delivery management
 system. The objectives of the Google Maps features include:
+  <br>
 1) Creating repositories and models for the Google Maps HTTP API calls. Specifically, the Geocoding
 and Directions API.
+  <br>
 2) Displaying markers, routes, live GPS of the Transporter on an embedded Google Maps widget.
+  <br>
 3) Creating an interface for the Frontend that utilizes my project.
+  <br>
 4) Provide my clients with documented code to continue the project.
   <br>
 Date: Jan 2023 - June 2023
@@ -50,7 +54,7 @@ Language: Flutter / Dart
 
 <p align = "center">
 <img src = "https://github.com/darylng154/Projects/blob/main/README_files/google_maps/transporter_home.png?raw=true" width=30% height=30%>
-<img src = "https://github.com/darylng154/Projects/blob/main/README_files/google_maps/slo_to_san_diego_map.png?raw=true" width=30% height=30%>
+<img src = "https://github.com/darylng154/Projects/blob/main/README_files/google_maps/testing_screen.png?raw=true" width=30% height=30%>
   <br>
 Google Maps Button for Transporter Home & Testing Screen
   <br>
