@@ -8,7 +8,7 @@ Flutter / Dart:
 
 [1. Google Maps](#google-maps)
 
-[2. AWS Frontend Login & Sign-Up](#aws-frontend-login-&-sign-up)
+[2. AWS Frontend Login & Sign-Up](#aws-frontend-login-signup)
 
 [3. buttonlist](#buttonlist)
 
