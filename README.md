@@ -46,11 +46,16 @@ and Directions API.
   <br>
 4) Provide my clients with documented code to continue the project.
   <br>
-Date: Jan 2023 - June 2023
+Date: Mar 2023 - June 2023
   <br>
 Language: Flutter / Dart
   <br>
+Video Links:
+  <br>
 </p>
+[Senior Project Integration](https://youtu.be/KrYpAGAOGGo)
+[Testing Screen](https://youtu.be/0bY0WnmrB9Q)
+
 
 <p align = "center">
 <img src = "https://github.com/darylng154/Projects/blob/main/README_files/google_maps/transporter_home.png?raw=true" width=30% height=30%>
@@ -89,6 +94,21 @@ Live GPS tracking of Transporter's Current Location
   <br>
 </p>
 <br>
+
+### AWS Frontend Login & Sign-Up
+<p>
+Description: 
+  <br>
+Users can login or create an account that will be stored in the backend. When creating a new account, users can select their desired account type so they will be routed to the correct page upon logging in. After submitting all fields, the user will be sent a verification code in their email to verify their account. Once a verified account logs in, they are routed to a page based on account type (shipper, transporter, dispatcher, or admin). From there, each actor (account type) has certain actions and pages available to them.
+  <br>
+Date: Jan 2023 - Mar 2023
+  <br>
+Language: Flutter / Dart
+  <br>
+Video Links:
+  <br>
+</p>
+[Login & Sign-Up Demo](https://youtu.be/BlXclX1P92Q)
 
 ### buttonlist
 <p>
