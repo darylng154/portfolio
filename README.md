@@ -73,8 +73,8 @@ Markers of All Packages in a Route
   <br>
   <br>
 
-<img src = "https://github.com/darylng154/Projects/blob/main/README_files/google_maps/testing_1_pickup?raw=true" width=30% height=30%>
-<img src = "https://github.com/darylng154/Projects/blob/main/README_files/google_maps/testing_1_dest?raw=true" width=30% height=30%>
+<img src = "https://github.com/darylng154/Projects/blob/main/README_files/google_maps/testing_1_pickup.png?raw=true" width=30% height=30%>
+<img src = "https://github.com/darylng154/Projects/blob/main/README_files/google_maps/testing_1_dest.png?raw=true" width=30% height=30%>
   <br>
 Origin & Destination of the Rotue
   <br>
@@ -86,8 +86,8 @@ Route of All Packages
   <br>
   <br>
 
-<img src = "https://github.com/darylng154/Projects/blob/main/README_files/google_maps/testing_3.1?raw=true" width=30% height=30%>
-<img src = "https://github.com/darylng154/Projects/blob/main/README_files/google_maps/testing_3.2?raw=true" width=30% height=30%>
+<img src = "https://github.com/darylng154/Projects/blob/main/README_files/google_maps/testing_3.1.png?raw=true" width=30% height=30%>
+<img src = "https://github.com/darylng154/Projects/blob/main/README_files/google_maps/testing_3.2.png?raw=true" width=30% height=30%>
   <br>
 Live GPS tracking of Transporter's Current Location
   <br>
