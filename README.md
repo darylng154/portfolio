@@ -61,7 +61,7 @@ Google Maps Button for Transporter Home & Testing Screen
   <br>
 
 <img src = "https://github.com/darylng154/Projects/blob/main/README_files/google_maps/slo_to_san_diego_form.png?raw=true" width=30% height=30%>
-<img src = "https://github.com/darylng154/Projects/blob/main/README_files/google_maps/slo_to_san_diego_map?raw=true" width=30% height=30%>
+<img src = "https://github.com/darylng154/Projects/blob/main/README_files/google_maps/slo_to_san_diego_map.png?raw=true" width=30% height=30%>
   <br>
 Shipment From San Luis Obispo to San Diego
   <br>
