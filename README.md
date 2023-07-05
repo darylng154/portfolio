@@ -8,7 +8,7 @@ Flutter / Dart:
 
 [1. Google Maps](#google-maps)
 
-[2. buttonlist](#buttonlist)
+[2. AWS Frontend Login & Sign-Up](#aws-frontend-login-sign-up)
 
 [3. buttonlist](#buttonlist)
 
@@ -54,6 +54,7 @@ Video Links:
   <br>
 </p>
 [Senior Project Integration](https://youtu.be/KrYpAGAOGGo)
+
 [Testing Screen](https://youtu.be/0bY0WnmrB9Q)
 
 
