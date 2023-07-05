@@ -68,8 +68,9 @@ Shipment From San Luis Obispo to San Diego
   <br>
 
 <img src = "https://github.com/darylng154/Projects/blob/main/README_files/google_maps/testing_1.png?raw=true" width=30% height=30%>
+<img src = "https://github.com/darylng154/Projects/blob/main/README_files/google_maps/testing_2.png?raw=true" width=30% height=30%>
   <br>
-Markers of All Packages in a Route
+Markers & Route of All Packages in a Route
   <br>
   <br>
 
@@ -77,12 +78,6 @@ Markers of All Packages in a Route
 <img src = "https://github.com/darylng154/Projects/blob/main/README_files/google_maps/testing_1_dest.png?raw=true" width=30% height=30%>
   <br>
 Origin & Destination of the Rotue
-  <br>
-  <br>
-
-<img src = "https://github.com/darylng154/Projects/blob/main/README_files/google_maps/testing_2.png?raw=true" width=30% height=30%>
-  <br>
-Route of All Packages
   <br>
   <br>
 
