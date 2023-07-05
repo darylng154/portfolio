@@ -16,6 +16,7 @@ Java:
 ### trace
 <p>
 Description: 
+  <br>
 Parses Ethernet, ARP, IP: ICMP, TCP, UDP Header information from Wire Shark Pcap files to an outputted file.
   <br>
 Date: Jan 2023 - Mar 2023
@@ -35,7 +36,9 @@ Figure 1.1: Packet #22's Ethernet, IP, TCP Header information parsed.
 
 ### buttonlist
 <p>
-Description: Client requested an infinite scrollable package list for Android & IOS in 10 weeks using Flutter.
+Description: 
+  <br>
+Client requested an infinite scrollable package list for Android & IOS in 10 weeks using Flutter.
   <br>
 Date: Sept 2023 - Dec 2023
   <br>
@@ -59,7 +62,9 @@ Figure 1.2: List of classes used in buttonlist
 
 ### cache_sim
 <p>
-Description: Cache Simulator: Models 7 different cache configs and prints: # of hits & hit rate & etc.
+Description: 
+  <br>
+Cache Simulator: Models 7 different cache configs and prints: # of hits & hit rate & etc.
   <br>
 Date: Jan 2022 - Mar 2022
   <br>
@@ -84,7 +89,9 @@ Figure 2.2: Terminal Output of Cache Simulator (2)
 
 ### mips_emu_pipeline
 <p>
-Description: MIPS Emulator with Pipelines. Runs basic MIPS assembly program while passing instr to pipelines.
+Description: 
+  <br>
+MIPS Emulator with Pipelines. Runs basic MIPS assembly program while passing instr to pipelines.
   <br>
 Date: Jan 2022 - Mar 2022
   <br>
@@ -114,7 +121,9 @@ Figure 3.3: Terminal Output of MIPS Emulator with Pipelines (3)
 
 ### mips_emu
 <p>
-Description: MIPS Emulator. Runs basic MIPS assembly program.
+Description: 
+  <br>
+MIPS Emulator. Runs basic MIPS assembly program.
   <br>
 Date: Jan 2022 - Mar 2022
   <br>
@@ -144,7 +153,9 @@ Figure 4.3: Terminal Output of MIPS Emulator (3)
 
 ### assembly_parser
 <p>
-Description: Translates / Parses Assembly Program to Machine Code (Binary).
+Description: 
+  <br>
+Translates / Parses Assembly Program to Machine Code (Binary).
   <br>
 Date: Jan 2022 - Mar 2022
   <br>
