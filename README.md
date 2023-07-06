@@ -11,7 +11,7 @@ https://www.figma.com/file/i8XZuJoseRTDmNSouWl1az/PokeWiki?node-id=0-1&t=wuJl8cf
 
 Development environment set up: <br/>
 #1. Change directory to '.\csc307-wikiProject\expressjs-backend\'. <br/>
-#2. Run 'npm run dev' in terminal. <br/>
+#2. Run 'npm start' or 'npm run dev' in terminal. <br/>
 #3. Change directory to '.\csc307-wikiProject\react-frontend\' on another terminal. <br/>
 #4. Run 'npm start' in that terminal. <br/>
 #5. Enjoy the Widechus! :D <br/>
