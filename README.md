@@ -29,6 +29,15 @@ Java:
 
 [4. assembly_parser](#assembly_parser)
 
+React:
+
+[1. poke_wiki](#poke_wiki)
+
+
+
+
+
+
 
 ### Google Maps
 <p>
@@ -276,6 +285,29 @@ Language: Java
 <img src = "https://github.com/darylng154/Projects/blob/main/README_files/assembly_parser/assembly_parser-1.png?raw=true" width=50% height=50%>
   <br>
 Output File after Assembly Code is parsed into Machine Code.
+  <br>
+  <br>
+</p>
+
+<br>
+
+### poke_wiki
+<p>
+Description: 
+  <br>
+Want to view all your favorite pokemons? Come to PokeWiki, to see Pokemon's details from it's number, name, description, types, abilities, height, weight, and background. Select your favorite Pokemons with the heart after logging in. Filter by it's name or types (up to many). Use the "Add Pokemon" Form to add your favorite Pokemons from Numbers 1 to 807! Come join us today at PokeWiki!
+  <br>
+  <br>
+Date: Jan 2022 - Mar 2022
+  <br>
+Language: React
+  <br>
+</p>
+
+<p align = "center">
+<img src = "https://github.com/darylng154/Projects/blob/main/README_files/poke_wiki/home.png?raw=true" width=50% height=50%>
+  <br>
+Home page.
   <br>
   <br>
 </p>
