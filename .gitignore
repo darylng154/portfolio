@@ -1,0 +1,5 @@
+react-frontend/node_modules
+expressjs-backend/node_modules
+/node_modules
+expressjs-backend/.env
+expressjs-backend/coverage
