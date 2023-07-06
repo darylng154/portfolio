@@ -3,7 +3,7 @@
 Started this repository in 2023 to display some of the interesting projects I have worked on. 
 You can find some of the project's source code in the branches of this repository.
 
-Table of Contents
+## Table of Contents
 
 Flutter / Dart:
 
