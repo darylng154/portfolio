@@ -12,12 +12,12 @@ Flutter / Dart:
 [2. AWS Frontend Login & Sign-Up](#aws-frontend-login--sign-up)
 
 [3. buttonlist](#buttonlist)
-
+<br>
 
 C:
 
 [1. trace](#trace)
-
+<br>
 
 Java:
 
@@ -28,16 +28,12 @@ Java:
 [3. mips_emu](#mips_emu)
 
 [4. assembly_parser](#assembly_parser)
+<br>
 
 React:
 
 [1. poke_wiki](#poke_wiki)
-
-
-
-
-
-
+<br><br>
 
 ### Google Maps
 <p>
