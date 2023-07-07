@@ -16,6 +16,13 @@ Flutter / Dart:
 <br>
 </p>
 
+React:
+
+[1. poke_wiki](#poke_wiki)
+<p>
+<br><br>
+</p>
+
 C:
 
 [1. trace](#trace)
@@ -36,12 +43,6 @@ Java:
 <br>
 </p>
 
-React:
-
-[1. poke_wiki](#poke_wiki)
-<p>
-<br><br>
-</p>
 
 ### Google Maps
 <p>
@@ -154,6 +155,77 @@ List of classes used in buttonlist
   <br>
   <br>
 </p>
+<br>
+
+### poke_wiki
+<p>
+Description: 
+  <br>
+Want to view all your favorite pokemons? Come to PokeWiki, to see Pokemon's details from it's number, name, description, types, abilities, height, weight, and background. Select your favorite Pokemons with the heart after logging in. Filter by it's name or types (up to many). Use the "Add Pokemon" Form to add your favorite Pokemons from Numbers 1 to 807! Come join us today at PokeWiki!
+  <br>
+  <br>
+Date: Jan 2022 - Mar 2022
+  <br>
+Language: React
+  <br>
+</p>
+
+<p align = "center">
+<img src = "https://github.com/darylng154/Projects/blob/main/README_files/poke_wiki/home.png?raw=true" width=50% height=50%>
+  <br>
+Pokemone Wiki Home page.
+  <br>
+  <br>
+</p>
+
+<p align = "center">
+<img src = "https://github.com/darylng154/Projects/blob/main/README_files/poke_wiki/table.png?raw=true" width=50% height=50%>
+  <br>
+Table of Pokemon page.
+  <br>
+  <br>
+</p>
+
+<p align = "center">
+<img src = "https://github.com/darylng154/Projects/blob/main/README_files/poke_wiki/filter_name.png?raw=true" width=50% height=50%>
+  <br>
+Table of Pokemon filtered by name.
+  <br>
+  <br>
+</p>
+
+<p align = "center">
+<img src = "https://github.com/darylng154/Projects/blob/main/README_files/poke_wiki/filter_types.png?raw=true" width=50% height=50%>
+  <br>
+Table of Pokemon filtered by one or more types.
+  <br>
+  <br>
+</p>
+
+<p align = "center">
+<img src = "https://github.com/darylng154/Projects/blob/main/README_files/poke_wiki/pokemon.png?raw=true" width=50% height=50%>
+  <br>
+Individual page for each Pokemon.
+  <br>
+  <br>
+</p>
+
+<p align = "center">
+<img src = "https://github.com/darylng154/Projects/blob/main/README_files/poke_wiki/add_pokemon.png?raw=true" width=50% height=50%>
+  <br>
+Page to add Pokemons into the Table and Database.
+  <br>
+  <br>
+</p>
+
+<p align = "center">
+<img src = "https://github.com/darylng154/Projects/blob/main/README_files/poke_wiki/login.png?raw=true" width=50% height=50%>
+  <br>
+Login Page to favorite Pokemons.
+  <br>
+  <br>
+</p>
+
 <br>
 
 ### trace
@@ -289,77 +361,6 @@ Language: Java
 <img src = "https://github.com/darylng154/Projects/blob/main/README_files/assembly_parser/assembly_parser-1.png?raw=true" width=50% height=50%>
   <br>
 Output File after Assembly Code is parsed into Machine Code.
-  <br>
-  <br>
-</p>
-
-<br>
-
-### poke_wiki
-<p>
-Description: 
-  <br>
-Want to view all your favorite pokemons? Come to PokeWiki, to see Pokemon's details from it's number, name, description, types, abilities, height, weight, and background. Select your favorite Pokemons with the heart after logging in. Filter by it's name or types (up to many). Use the "Add Pokemon" Form to add your favorite Pokemons from Numbers 1 to 807! Come join us today at PokeWiki!
-  <br>
-  <br>
-Date: Jan 2022 - Mar 2022
-  <br>
-Language: React
-  <br>
-</p>
-
-<p align = "center">
-<img src = "https://github.com/darylng154/Projects/blob/main/README_files/poke_wiki/home.png?raw=true" width=50% height=50%>
-  <br>
-Pokemone Wiki Home page.
-  <br>
-  <br>
-</p>
-
-<p align = "center">
-<img src = "https://github.com/darylng154/Projects/blob/main/README_files/poke_wiki/table.png?raw=true" width=50% height=50%>
-  <br>
-Table of Pokemon page.
-  <br>
-  <br>
-</p>
-
-<p align = "center">
-<img src = "https://github.com/darylng154/Projects/blob/main/README_files/poke_wiki/filter_name.png?raw=true" width=50% height=50%>
-  <br>
-Table of Pokemon filtered by name.
-  <br>
-  <br>
-</p>
-
-<p align = "center">
-<img src = "https://github.com/darylng154/Projects/blob/main/README_files/poke_wiki/filter_types.png?raw=true" width=50% height=50%>
-  <br>
-Table of Pokemon filtered by one or more types.
-  <br>
-  <br>
-</p>
-
-<p align = "center">
-<img src = "https://github.com/darylng154/Projects/blob/main/README_files/poke_wiki/pokemon.png?raw=true" width=50% height=50%>
-  <br>
-Individual page for each Pokemon.
-  <br>
-  <br>
-</p>
-
-<p align = "center">
-<img src = "https://github.com/darylng154/Projects/blob/main/README_files/poke_wiki/add_pokemon.png?raw=true" width=50% height=50%>
-  <br>
-Page to add Pokemons into the Table and Database.
-  <br>
-  <br>
-</p>
-
-<p align = "center">
-<img src = "https://github.com/darylng154/Projects/blob/main/README_files/poke_wiki/login.png?raw=true" width=50% height=50%>
-  <br>
-Login Page to favorite Pokemons.
   <br>
   <br>
 </p>
