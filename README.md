@@ -20,7 +20,7 @@ React:
 
 [1. poke_wiki](#poke_wiki)
 <p>
-<br><br>
+<br>
 </p>
 
 C:
@@ -40,7 +40,7 @@ Java:
 
 [4. assembly_parser](#assembly_parser)
 <p>
-<br>
+<br><br>
 </p>
 
 
