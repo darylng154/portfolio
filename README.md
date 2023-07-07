@@ -311,7 +311,55 @@ Language: React
 <p align = "center">
 <img src = "https://github.com/darylng154/Projects/blob/main/README_files/poke_wiki/home.png?raw=true" width=50% height=50%>
   <br>
-Home page.
+Pokemone Wiki Home page.
+  <br>
+  <br>
+</p>
+
+<p align = "center">
+<img src = "https://github.com/darylng154/Projects/blob/main/README_files/poke_wiki/table.png?raw=true" width=50% height=50%>
+  <br>
+Table of Pokemon page.
+  <br>
+  <br>
+</p>
+
+<p align = "center">
+<img src = "https://github.com/darylng154/Projects/blob/main/README_files/poke_wiki/filter_name.png?raw=true" width=50% height=50%>
+  <br>
+Table of Pokemon filtered by name.
+  <br>
+  <br>
+</p>
+
+<p align = "center">
+<img src = "https://github.com/darylng154/Projects/blob/main/README_files/poke_wiki/filter_types.png?raw=true" width=50% height=50%>
+  <br>
+Table of Pokemon filtered by one or more types.
+  <br>
+  <br>
+</p>
+
+<p align = "center">
+<img src = "https://github.com/darylng154/Projects/blob/main/README_files/poke_wiki/pokemon.png?raw=true" width=50% height=50%>
+  <br>
+Individual page for each Pokemon.
+  <br>
+  <br>
+</p>
+
+<p align = "center">
+<img src = "https://github.com/darylng154/Projects/blob/main/README_files/poke_wiki/add_pokemon.png?raw=true" width=50% height=50%>
+  <br>
+Page to add Pokemons into the Table and Database.
+  <br>
+  <br>
+</p>
+
+<p align = "center">
+<img src = "https://github.com/darylng154/Projects/blob/main/README_files/poke_wiki/login.png?raw=true" width=50% height=50%>
+  <br>
+Login Page to favorite Pokemons.
   <br>
   <br>
 </p>
