@@ -11,34 +11,34 @@ Flutter / Dart:
 
 [2. AWS Frontend Login & Sign-Up](#aws-frontend-login--sign-up)
 
-[3. buttonlist](#buttonlist)
+[3. Scrollable List (buttonlist)](#buttonlist)
 <p>
 <br>
 </p>
 
 React:
 
-[1. poke_wiki](#poke_wiki)
+[1. Pokemon Wiki (poke_wiki)](#poke_wiki)
 <p>
 <br>
 </p>
 
 C:
 
-[1. trace](#trace)
+[1. Network Protocol Header Parser (trace)](#trace)
 <p>
 <br>
 </p>
 
 Java:
 
-[1. cache_sim](#cache_sim)
+[1. Cache Simulator (cache_sim)](#cache_sim)
 
-[2. mips_emu_pipeline](#mips_emu_pipeline)
+[2. MIPS Emulator with Pipelines (mips_emu_pipeline)](#mips_emu_pipeline)
 
-[3. mips_emu](#mips_emu)
+[3. MIPS Emulator (mips_emu)](#mips_emu)
 
-[4. assembly_parser](#assembly_parser)
+[4. Assembly to Machine Code (assembly_parser)](#assembly_parser)
 <p>
 <br><br>
 </p>
