@@ -234,6 +234,30 @@ Login Page to favorite Pokemons.
 
 <br>
 
+### lwp
+<p>
+Description: 
+  <br>
+Creates an independent thread to control a sequence of executed instructions that is executing in the same address space of another lightweight process.
+Modifies the process' stack registers/pointers to jump and execute a different function that was not in the original context.
+  <br>
+  <br>
+Date: Apr 2023
+  <br>
+Language: C
+  <br>
+</p>
+
+<p align = "center">
+<img src = "https://github.com/darylng154/Projects/blob/main/README_files/lwp/demo.png?raw=true" width=75% height=75%>
+  <br>
+Multiple users talking to each other on the server.
+  <br>
+  <br>
+</p>
+
+<br>
+
 ### rcopy
 <p>
 Description: 
