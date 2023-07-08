@@ -1,0 +1,27 @@
+Daryl Ng
+
+Running Server:
+./server <port #>
+-automatically assigns port # if unspecified
+
+Running Client:
+./cclient <client_name> <server_ip> <port #>
+
+Chat Commands:
+All commands work with lowercase.
+
+%M destination-client [text]
+-sends a message to one client
+NOTE: currently broken but can easily use %C code to fix.
+
+%B [text]
+-broadcasts message to all clients
+
+%C num-clients destination-client [destination-client] [text]
+-sends message to multiple clients
+
+%L
+-lists all clients connected to the server
+
+%E
+-exit command
