@@ -27,11 +27,11 @@ C:
 
 [1. Lightweight Process Library (lwp)](#lwp)
 
-[1. Remote File Copy (rcopy)](#rcopy)
+[2. Remote File Copy (rcopy)](#rcopy)
 
-[1. TCP Chat Program (tcp_chat)](#tcp_chat)
+[3. TCP Chat Program (tcp_chat)](#tcp_chat)
 
-[1. Network Protocol Header Parser (trace)](#trace)
+[4. Network Protocol Header Parser (trace)](#trace)
 <p>
 <br>
 </p>
