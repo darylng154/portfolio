@@ -1,14 +1,8 @@
 Name: Daryl Ng
 
-Questions:
-How is this LWP library different from a real thread management library? 
-Real thread libraries have their own registers and stack. Our library's "threads" only has their own 
-logical stack we malloc'ed, but shares the same register with the main process by context switching. 
-Our implementation is in the user space while real threads are lower level in the kernel space.
+Install:
+1. In Ubuntu, run 'sudo apt-get install gcc-multilib' to install 32-bit platform.
+Note: Remaking the object files cause a segmentation fault in Ubuntu.
 
-Name two ways in which this LWP library API could be improved.
-1. We can use fork to provide the threads their own registers while allowing them to process in parallel.
-2. We can add interrupt signals to provide preemption.
-
-Instructions:
-Running "make" will compile the LWP library and numbersmain.
+Run LWP:
+1. Run command "./numbersmain".
