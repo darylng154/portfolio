@@ -25,6 +25,10 @@ React:
 
 C:
 
+[1. Lightweight Process Library (lwp)](#lwp)
+
+[1. TCP Chat Program (tcp_chat)](#tcp_chat)
+
 [1. Network Protocol Header Parser (trace)](#trace)
 <p>
 <br>
@@ -171,7 +175,7 @@ Language: React
 </p>
 
 <p align = "center">
-<img src = "https://github.com/darylng154/Projects/blob/main/README_files/poke_wiki/home.png?raw=true" width=50% height=50%>
+<img src = "https://github.com/darylng154/Projects/blob/main/README_files/poke_wiki/home.png?raw=true" width=75% height=75%>
   <br>
 Pokemone Wiki Home page.
   <br>
@@ -179,7 +183,7 @@ Pokemone Wiki Home page.
 </p>
 
 <p align = "center">
-<img src = "https://github.com/darylng154/Projects/blob/main/README_files/poke_wiki/table.png?raw=true" width=50% height=50%>
+<img src = "https://github.com/darylng154/Projects/blob/main/README_files/poke_wiki/table.png?raw=true" width=75% height=75%>
   <br>
 Table of Pokemon page.
   <br>
@@ -187,7 +191,7 @@ Table of Pokemon page.
 </p>
 
 <p align = "center">
-<img src = "https://github.com/darylng154/Projects/blob/main/README_files/poke_wiki/filter_name.png?raw=true" width=50% height=50%>
+<img src = "https://github.com/darylng154/Projects/blob/main/README_files/poke_wiki/filter_name.png?raw=true" width=75% height=75%>
   <br>
 Table of Pokemon filtered by name.
   <br>
@@ -195,7 +199,7 @@ Table of Pokemon filtered by name.
 </p>
 
 <p align = "center">
-<img src = "https://github.com/darylng154/Projects/blob/main/README_files/poke_wiki/filter_types.png?raw=true" width=50% height=50%>
+<img src = "https://github.com/darylng154/Projects/blob/main/README_files/poke_wiki/filter_types.png?raw=true" width=75% height=75%>
   <br>
 Table of Pokemon filtered by one or more types.
   <br>
@@ -203,7 +207,7 @@ Table of Pokemon filtered by one or more types.
 </p>
 
 <p align = "center">
-<img src = "https://github.com/darylng154/Projects/blob/main/README_files/poke_wiki/pokemon.png?raw=true" width=50% height=50%>
+<img src = "https://github.com/darylng154/Projects/blob/main/README_files/poke_wiki/pokemon.png?raw=true" width=75% height=75%>
   <br>
 Individual page for each Pokemon.
   <br>
@@ -211,7 +215,7 @@ Individual page for each Pokemon.
 </p>
 
 <p align = "center">
-<img src = "https://github.com/darylng154/Projects/blob/main/README_files/poke_wiki/add_pokemon.png?raw=true" width=50% height=50%>
+<img src = "https://github.com/darylng154/Projects/blob/main/README_files/poke_wiki/add_pokemon.png?raw=true" width=75% height=75%>
   <br>
 Page to add Pokemons into the Table and Database.
   <br>
@@ -219,13 +223,36 @@ Page to add Pokemons into the Table and Database.
 </p>
 
 <p align = "center">
-<img src = "https://github.com/darylng154/Projects/blob/main/README_files/poke_wiki/login.png?raw=true" width=50% height=50%>
+<img src = "https://github.com/darylng154/Projects/blob/main/README_files/poke_wiki/login.png?raw=true" width=75% height=75%>
   <br>
 Login Page to favorite Pokemons.
   <br>
   <br>
 </p>
 
+<br>
+
+### tcp_chat
+<p>
+Description: 
+  <br>
+TCP Chat program. There are 2 programs: one for the server and the other for the client(s). You can check who is logged and send messages to users in real time. 
+The supported commands are described in the README.
+  <br>
+  <br>
+Date: Feb 2023
+  <br>
+Language: C
+  <br>
+</p>
+
+<p align = "center">
+<img src = "https://github.com/darylng154/Projects/blob/main/README_files/tcp_chat/demo.png?raw=true" width=75% height=75%>
+  <br>
+Multiple users talking to each other on the server.
+  <br>
+  <br>
+</p>
 <br>
 
 ### trace
@@ -235,7 +262,7 @@ Description:
 Parses Ethernet, ARP, IP: ICMP, TCP, UDP Header information from Wire Shark Pcap files to an outputted file.
   <br>
   <br>
-Date: Jan 2023 - Mar 2023
+Date: Jan 2023
   <br>
 Language: C
   <br>
