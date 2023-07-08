@@ -263,7 +263,7 @@ Creating and using a LWP thread in numbermain's stack.
 Description: 
   <br>
 Remote file copy using UDP with sliding window flow control that uses selective-reject ARQ. There are 2 programs: one for the server and the other for the client (rcopy).
-Supports error recovery when packets are lost or corrupted on server and client side.
+Supports error recovery when packets are lost or corrupted on server and client side. Also supports multiple clients coping different files at once.
   <br>
   <br>
 Date: Feb 2023
