@@ -142,6 +142,11 @@ Video Links:
 </p>
 
 [Login & Sign-Up Demo](https://youtu.be/BlXclX1P92Q)
+<br>
+
+[Back to Table of Contents](#table-of-contents)
+
+<br>
 
 ### buttonlist
 <p>
