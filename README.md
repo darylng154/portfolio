@@ -25,6 +25,10 @@ React:
 
 C:
 
+[1. Operating System Virtual Memory Simulator (mem_sim)](#mem_sim)
+
+[2. Operating System Scheduler Simulator (sched_sim)](#sched_sim)
+
 [1. Lightweight Process Library (lwp)](#lwp)
 
 [2. Remote File Copy (rcopy)](#rcopy)
@@ -228,6 +232,54 @@ Page to add Pokemons into the Table and Database.
 <img src = "https://github.com/darylng154/Projects/blob/main/README_files/poke_wiki/login.png?raw=true" width=75% height=75%>
   <br>
 Login Page to favorite Pokemons.
+  <br>
+  <br>
+</p>
+
+<br>
+
+### mem_sim
+<p>
+Description: 
+  <br>
+Operating System Virtual Memory simulator, which translates virtual memory addresses (like those that come from a process) to physical memory addresses (as managed by
+the operating system). Only focuses on read operations using a Translation Lookaside Buffer (TLB), Page Table, Backing store, and Simulated Physical memory.
+  <br>
+  <br>
+Date: May 2023
+  <br>
+Language: C
+  <br>
+</p>
+
+<p align = "center">
+<img src = "https://github.com/darylng154/Projects/blob/main/README_files/mem_sim/demo.png?raw=true" width=75% height=75%>
+  <br>
+Terminal output of the Virtual memory simulator using FIFO.
+  <br>
+  <br>
+</p>
+
+<br>
+
+### sched_sim
+<p>
+Description: 
+  <br>
+Operating System Scheduler simulator that supports multiple scheduling algorithms, and computes the turnaround and wait times for each job submitted to the simulator.
+Job file contains a list of jobs' burst and arrival times in any order.
+  <br>
+  <br>
+Date: May 2023
+  <br>
+Language: C
+  <br>
+</p>
+
+<p align = "center">
+<img src = "https://github.com/darylng154/Projects/blob/main/README_files/sched_sim/demo.png?raw=true" width=75% height=75%>
+  <br>
+Terminal output of the Schedule Simulator for all supported algorithms.
   <br>
   <br>
 </p>
