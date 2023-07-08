@@ -251,7 +251,7 @@ Language: C
 <p align = "center">
 <img src = "https://github.com/darylng154/Projects/blob/main/README_files/lwp/demo.png?raw=true" width=75% height=75%>
   <br>
-Multiple users talking to each other on the server.
+Creating and using a LWP thread in numbermain's stack.
   <br>
   <br>
 </p>
