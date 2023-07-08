@@ -1,0 +1,20 @@
+Name: Daryl Ng
+
+Comments:
+Max number of jobs is 100. Defined in job.h by MAXSIZE.
+
+Questions:
+1. For what types of workloads does SRTN deliver the same turnaround times as FIFO?
+When all processes have the same burst time because they all have the same remaining time and will choose the first that arrived.
+
+2. For what types of workloads and quantum lengths does SRTN deliver the same response times as RR?
+When all processes have the same burst time and RR's quantum length is less than or equal to the smallest burst time.
+
+3. What happens to response time with SRTN as job lengths increase? Can you use the simulator to demonstrate the trend?
+When jobs' length increases, so does the response time. Since the prior job is smaller in length, the next job has to wait for the job to complete.
+Yes, we can make jobs increase in burst time as they arrive and calculate their response times.
+
+4. What happens to response time with RR as quantum lengths increase? Can you write an equation that gives the worst-case response time, given N jobs?
+When RR's quantum length increases, so does the response time. This is because jobs will run for a longer time before moving onto the next job, so
+the job's 1st burst is delayed by the quantum length.
+worst-case response time = (N-1)*quantum
