@@ -29,13 +29,13 @@ C:
 
 [2. Operating System Scheduler Simulator (sched_sim)](#sched_sim)
 
-[1. Lightweight Process Library (lwp)](#lwp)
+[3. Lightweight Process Library (lwp)](#lwp)
 
-[2. Remote File Copy (rcopy)](#rcopy)
+[4. Remote File Copy (rcopy)](#rcopy)
 
-[3. TCP Chat Program (tcp_chat)](#tcp_chat)
+[5. TCP Chat Program (tcp_chat)](#tcp_chat)
 
-[4. Network Protocol Header Parser (trace)](#trace)
+[6. Network Protocol Header Parser (trace)](#trace)
 <p>
 <br>
 </p>
