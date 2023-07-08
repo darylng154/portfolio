@@ -277,7 +277,7 @@ Language: C
 </p>
 
 <p align = "center">
-<img src = "https://github.com/darylng154/Projects/blob/main/README_files/sched_sim/demo.png?raw=true" width=75% height=75%>
+<img src = "https://github.com/darylng154/Projects/blob/main/README_files/sched_sim/demo.png?raw=true" width=50% height=50%>
   <br>
 Terminal output of the Schedule Simulator for all supported algorithms.
   <br>
