@@ -4,5 +4,11 @@ Install:
 1. Run 'make -f build464Lib.mk' in root directory.
 2. Run 'make' to create all object files.
 
+Running Server:
+./server error_percent port_#
+
+Running Client:
+./rcopy from_filename to_filename window_size buffer_size error_percent server_ip port_#
+
 Comments:
 I send a flag = 0 if the server cannot open the file.
