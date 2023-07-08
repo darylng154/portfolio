@@ -232,12 +232,44 @@ Login Page to favorite Pokemons.
 
 <br>
 
+### rcopy
+<p>
+Description: 
+  <br>
+Remote file copy using UDP with sliding window flow control that uses selective-reject ARQ. There are 2 programs: one for the server and the other for the client (rcopy).
+Supports error recovery when packets are lost or corrupted on server and client side.
+  <br>
+  <br>
+Date: Feb 2023
+  <br>
+Language: C
+  <br>
+</p>
+
+<p align = "center">
+<img src = "https://github.com/darylng154/Projects/blob/main/README_files/rcopy/small_no_drops.png?raw=true" width=75% height=75%>
+  <br>
+Small file (279 Bytes) transfer with 0% (0.0) error percent.
+  <br>
+  <br>
+</p>
+
+<p align = "center">
+<img src = "https://github.com/darylng154/Projects/blob/main/README_files/rcopy/big50_drops.png?raw=true" width=75% height=75%>
+  <br>
+Big file (424,232 Bytes) transfer with 1% (0.1) error percent.
+  <br>
+  <br>
+</p>
+
+<br>
+
 ### tcp_chat
 <p>
 Description: 
   <br>
 TCP Chat program. There are 2 programs: one for the server and the other for the client(s). You can check who is logged and send messages to users in real time. 
-The supported commands are described in the README.
+Uses my own Handle/Client Table that is a dynamically allocated array to keep track of the users logged in. The supported commands are described in the README.
   <br>
   <br>
 Date: Feb 2023
@@ -253,6 +285,7 @@ Multiple users talking to each other on the server.
   <br>
   <br>
 </p>
+
 <br>
 
 ### trace
@@ -275,6 +308,7 @@ Packet #22's Ethernet, IP, TCP Header information parsed.
   <br>
   <br>
 </p>
+
 <br>
 
 ### cache_sim
