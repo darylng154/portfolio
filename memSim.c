@@ -59,26 +59,17 @@ void readFile(FILE *file_ptr, unsigned int **address_list, unsigned int *address
 }
 
 void readBin(FILE *bin_fptr, char **bin_buffer, unsigned int *bin_size){
-    char *buffer = NULL;
-    int size, i, c;
+    char buffer[BIN_BUFFER_*100];
+    int i, c;
     
-    size = BIN_BUFFER_;
-
-    buffer = (char *)safeMalloc(size * sizeof(char));
-
     errno = 0;
     while(EOF != (c = fgetc(bin_fptr))){
-        if(i >= size - 2){/* Reached end of buffer. Get more space*/
-            buffer = (char *)safeRealloc(buffer, size + BIN_BUFFER_, size, sizeof(char));
-            size += BIN_BUFFER_;
-        }
         buffer[i++] = c;
     }
 
     if(i > 0)
         buffer[i] = '\0';
     else if(i == 0 && c == EOF){
-        free(buffer);
         *bin_buffer = NULL;
         return;
     }
@@ -91,7 +82,6 @@ void readBin(FILE *bin_fptr, char **bin_buffer, unsigned int *bin_size){
     *bin_size = i;
     if(verbosity)
         printf("Bin size: %d\n", *bin_size);
-    free(buffer);
     
     return;
 }
