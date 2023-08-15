@@ -56,9 +56,6 @@ Java:
 
 ### Google Maps
 <p>
-
-[Repo](https://github.com/darylng154/package_system)
-  <br>
 Description: 
   <br>
 The main goal of this project is to incorporate Google Maps features into a clickable Button widget
@@ -78,6 +75,9 @@ and Directions API.
 Date: Mar 2023 - June 2023
   <br>
 Language: Flutter / Dart
+  <br>
+  <br>
+[Repository](https://github.com/darylng154/package_system)
   <br>
 Video Links:
   <br>
