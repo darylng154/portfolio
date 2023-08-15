@@ -76,7 +76,6 @@ Date: Mar 2023 - June 2023
   <br>
 Language: Flutter / Dart
   <br>
-  <br>
   
 [Repository](https://github.com/darylng154/package_system)
   <br>
