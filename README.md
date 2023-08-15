@@ -75,7 +75,6 @@ and Directions API.
 Date: Mar 2023 - June 2023
   <br>
 Language: Flutter / Dart
-  <br>
   
 [Repository](https://github.com/darylng154/package_system)
   <br>
