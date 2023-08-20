@@ -1,4 +1,7 @@
-# Projects
+# Daryl Ng's Portfolio
+
+
+## Description
 
 Started this repository in 2023 to display some of the interesting projects I have worked on. 
 You can find some of the project's source code in the branches of this repository.
@@ -197,6 +200,9 @@ Date: Jan 2022 - Mar 2022
   <br>
 Language: React
   <br>
+
+[Source Code](https://github.com/darylng154/portfolio/tree/poke_wiki)
+  <br>
 </p>
 
 <p align = "center">
@@ -271,6 +277,9 @@ Date: May 2023
   <br>
 Language: C
   <br>
+
+[Source Code](https://github.com/darylng154/portfolio/tree/mem_sim)
+  <br>
 </p>
 
 <p align = "center">
@@ -296,6 +305,9 @@ Job file contains a list of jobs' burst and arrival times in any order.
 Date: May 2023
   <br>
 Language: C
+  <br>
+
+[Source Code](https://github.com/darylng154/portfolio/tree/sched_sim)
   <br>
 </p>
 
@@ -323,6 +335,9 @@ Date: Apr 2023
   <br>
 Language: C
   <br>
+
+[Source Code](https://github.com/darylng154/portfolio/tree/lwp)
+  <br>
 </p>
 
 <p align = "center">
@@ -348,6 +363,9 @@ Supports error recovery when packets are lost or corrupted on server and client 
 Date: Feb 2023
   <br>
 Language: C
+  <br>
+
+[Source Code](https://github.com/darylng154/portfolio/tree/rcopy)
   <br>
 </p>
 
@@ -383,6 +401,9 @@ Date: Feb 2023
   <br>
 Language: C
   <br>
+
+[Source Code](https://github.com/darylng154/portfolio/tree/tcp_chat)
+  <br>
 </p>
 
 <p align = "center">
@@ -408,6 +429,9 @@ Date: Jan 2023
   <br>
 Language: C
   <br>
+
+[Source Code](https://github.com/darylng154/portfolio/tree/trace)
+  <br>
 </p>
 
 <p align = "center">
@@ -432,6 +456,9 @@ Cache Simulator: Models 7 different cache configs and prints: # of hits & hit ra
 Date: Jan 2022 - Mar 2022
   <br>
 Language: Java
+  <br>
+
+[Source Code](https://github.com/darylng154/portfolio/tree/cache_sim)
   <br>
 </p>
 
@@ -462,6 +489,9 @@ MIPS Emulator with Pipelines. Runs basic MIPS assembly program while passing ins
 Date: Jan 2022 - Mar 2022
   <br>
 Language: Java
+  <br>
+
+[Source Code](https://github.com/darylng154/portfolio/tree/mips_emu_pipeline)
   <br>
 </p>
 
@@ -498,6 +528,9 @@ Date: Jan 2022 - Mar 2022
   <br>
 Language: Java
   <br>
+
+[Source Code](https://github.com/darylng154/portfolio/tree/mips_emu)
+  <br>
 </p>
 
 <p align = "center">
@@ -532,6 +565,9 @@ Translates / Parses Assembly Program to Machine Code (Binary).
 Date: Jan 2022 - Mar 2022
   <br>
 Language: Java
+  <br>
+
+[Source Code](https://github.com/darylng154/portfolio/tree/assembly_parser)
   <br>
 </p>
 
