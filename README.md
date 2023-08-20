@@ -3,8 +3,9 @@
 
 ## Description
 
-Started this repository in 2023 to display some of the interesting projects I have worked on. 
-You can find some of the project's source code in the branches of this repository.
+This repository showcases projects that I am proud of. You can find the links to the source code under each projects' programming language.
+My personal favorites are Google Maps and AWS Frontend Login and Sign-Up as they display my passion and skills working with my clients 
+by providing them with neat and well-documented code to continue on with the next team.
 
 ## Table of Contents
 
@@ -12,7 +13,7 @@ Flutter / Dart:
 
 [1. Google Maps](#google-maps)
 
-[2. AWS Frontend Login & Sign-Up](#aws-frontend-login--sign-up)
+[2. Frontend AWS Login & Sign-Up](#frontend-aws-login--sign-up)
 
 [3. Scrollable List (buttonlist)](#buttonlist)
 <p>
@@ -132,7 +133,7 @@ Live GPS tracking of Transporter's Current Location
 
 <br>
 
-### AWS Frontend Login & Sign-Up
+### Frontend AWS Login & Sign-Up
 <p>
 Description: 
   <br>
