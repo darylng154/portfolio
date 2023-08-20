@@ -154,6 +154,29 @@ Video Links:
 [Login & Sign-Up Demo](https://youtu.be/BlXclX1P92Q)
 <br>
 
+<p align = "center">
+<img src = "https://github.com/darylng154/Projects/blob/main/README_files/aws_login_signup/login.png?raw=true" width=30% height=30%>
+<img src = "https://github.com/darylng154/Projects/blob/main/README_files/aws_login_signup/account.png?raw=true" width=30% height=30%>
+  <br>
+Login/Sign-up screen with screen to enter Account details.
+  <br>
+  <br>
+
+<img src = "https://github.com/darylng154/Projects/blob/main/README_files/aws_login_signup/auth.png?raw=true" width=30% height=30%>
+<img src = "https://github.com/darylng154/Projects/blob/main/README_files/aws_login_signup/code.png?raw=true" width=30% height=30%>
+  <br>
+Authentication code sent to the user's email to enter on the app.
+  <br>
+  <br>
+
+<img src = "https://github.com/darylng154/Projects/blob/main/README_files/aws_login_signup/logging_shipper.png?raw=true" width=30% height=30%>
+<img src = "https://github.com/darylng154/Projects/blob/main/README_files/aws_login_signup/shipper.png?raw=true" width=30% height=30%>
+  <br>
+Logging into a Shipper Account.
+  <br>
+  <br>
+</p>
+
 [Back to Table of Contents](#table-of-contents)
 
 <br>
