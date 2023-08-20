@@ -162,7 +162,7 @@ Login/Sign-up screen with screen to enter Account details.
   <br>
   <br>
 
-<img src = "https://github.com/darylng154/Projects/blob/main/README_files/aws_login_signup/auth.png?raw=true" width=30% height=30%>
+<img src = "https://github.com/darylng154/Projects/blob/main/README_files/aws_login_signup/auth.png?raw=true" width=100% height=100%>
   <br>
 Authentication code in the user's email after clicking "Create an Account" button.
   <br>
