@@ -4,8 +4,8 @@
 ## Description
 
 This repository showcases projects that I am proud of. You can find the links to the source code under each projects' programming language.
-My personal favorites are Google Maps and AWS Frontend Login and Sign-Up as they display my passion and skills working with my clients 
-by providing them with neat and well-documented code to continue on with the next team.
+My personal favorites are Google Maps and AWS Frontend Login and Sign-Up as they display my passion and skills to learn a new language (Dart)
+and Framework (Flutter) to work with my clients by providing them with neat and well-documented code to continue on with the next team.
 
 ## Table of Contents
 
