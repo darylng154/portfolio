@@ -54,10 +54,10 @@ Java:
 
 [4. Assembly to Machine Code (assembly_parser)](#assembly_parser)
 <p>
-<br><br>
+<br>
 </p>
 
-Verilog/Vivado:
+Verilog:
 
 [1. FPGA RISC-V Microcontroller Unit](#risc-v_mcu)
 <p>
