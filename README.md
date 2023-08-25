@@ -57,6 +57,13 @@ Java:
 <br><br>
 </p>
 
+Verilog/Vivado:
+
+[1. FPGA RISC-V Microcontroller Unit](#risc-v_mcu)
+<p>
+<br><br>
+</p>
+
 
 ### Google Maps
 <p>
@@ -603,6 +610,45 @@ Language: Java
 <img src = "https://github.com/darylng154/Projects/blob/main/README_files/assembly_parser/assembly_parser-1.png?raw=true" width=50% height=50%>
   <br>
 Output File after Assembly Code is parsed into Machine Code.
+  <br>
+  <br>
+</p>
+
+[Back to Table of Contents](#table-of-contents)
+
+<br>
+
+### risc-v_mcu
+<p>
+Description: 
+  <br>
+Engineered a microcontroller on a Basys 3 FPGA board using Verilog in Vivado to parse and run assembly as RISC-V instructions.
+- Created a Program Counter, Branch Address Generator, Decoder, etc to translate, step, and jump through machine code instructions in Memory
+- Built a Register File and Arithmetic Logic Unit to manipulate data and differentiate what the current instruction is based on its opcode
+- Implemented interrupt service routines by adding a Control and Status Register to give the system more flexibility in the program flow
+- Utilized Vivado's test bench simulator to test and ensure accurate data, behavior, and clock cycle timing  <br>
+  <br>
+Date: Apr 2021 - May 2021
+  <br>
+Language: Verilog
+  <br>
+
+[Source Code](https://github.com/darylng154/portfolio/tree/risc-v_mcu)
+  <br>
+</p>
+
+<p align = "center">
+<img src = "https://github.com/darylng154/Projects/blob/main/README_files/risc-v_mcu/schematic.png?raw=true" width=80% height=80%>
+  <br>
+Schematic of the complete RISC-V Microcontroller developed.
+  <br>
+  <br>
+</p>
+
+<p align = "center">
+<img src = "https://github.com/darylng154/Projects/blob/main/README_files/risc-v_mcu/isr_sim.png?raw=true" width=80% height=80%>
+  <br>
+Simulation result of the interruption service routine test bench.
   <br>
   <br>
 </p>
