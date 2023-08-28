@@ -5,6 +5,9 @@
 
 This repository showcases projects that I am proud of. I organized it by the language and then how interesting it was.
 You can find the links to the source code under each projects' programming language.
+
+<br>
+
 My personal favorites are Google Maps and AWS Frontend Login and Sign-Up as they display my passion and skills to learn a new language (Dart)
 and framework (Flutter) to work with my clients by providing them with neat and well-documented code to continue on with the next team.
 
