@@ -623,10 +623,15 @@ Output File after Assembly Code is parsed into Machine Code.
 Description: 
   <br>
 Engineered a microcontroller on a Basys 3 FPGA board using Verilog in Vivado to parse and run assembly as RISC-V instructions.
+  <br>
 - Created a Program Counter, Branch Address Generator, Decoder, etc to translate, step, and jump through machine code instructions in Memory
+  <br>
 - Built a Register File and Arithmetic Logic Unit to manipulate data and differentiate what the current instruction is based on its opcode
+  <br>
 - Implemented interrupt service routines by adding a Control and Status Register to give the system more flexibility in the program flow
-- Utilized Vivado's test bench simulator to test and ensure accurate data, behavior, and clock cycle timing  <br>
+  <br>
+- Utilized Vivado's test bench simulator to test and ensure accurate data, behavior, and clock cycle timing  
+  <br>
   <br>
 Date: Apr 2021 - May 2021
   <br>
