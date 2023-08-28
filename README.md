@@ -15,9 +15,9 @@ and framework (Flutter) to work with my clients by providing them with neat and 
 
 Flutter / Dart:
 
-[1. Google Maps](#google-maps)
+[1. Google Maps (Recommend)](#google-maps)
 
-[2. Frontend AWS Login & Sign-Up](#frontend-aws-login--sign-up)
+[2. Frontend AWS Login & Sign-Up (Recommend)](#frontend-aws-login--sign-up)
 
 [3. Scrollable List (buttonlist)](#buttonlist)
 <p>
@@ -26,16 +26,16 @@ Flutter / Dart:
 
 React:
 
-[1. Pokemon Wiki (poke_wiki)](#poke_wiki)
+[1. Pokemon Wiki (poke_wiki) (Recommend)](#poke_wiki)
 <p>
 <br>
 </p>
 
 C:
 
-[1. Remote File Copy (rcopy)](#rcopy)
+[1. Remote File Copy (rcopy) (Recommend)](#rcopy)
 
-[2. Operating System Virtual Memory Simulator (mem_sim)](#mem_sim)
+[2. Operating System Virtual Memory Simulator (mem_sim) (Recommend)](#mem_sim)
 
 [3. Lightweight Process Library (lwp)](#lwp)
 
@@ -50,13 +50,15 @@ C:
 
 Java:
 
-[1. Cache Simulator (cache_sim)](#cache_sim)
+[1. Object Oriented Zombie Game (Recommend)](#zombie_game)
 
-[2. MIPS Emulator with Pipelines (mips_emu_pipeline)](#mips_emu_pipeline)
+[2. Cache Simulator (cache_sim)](#cache_sim)
 
-[3. MIPS Emulator (mips_emu)](#mips_emu)
+[3. MIPS Emulator with Pipelines (mips_emu_pipeline)](#mips_emu_pipeline)
 
-[4. Assembly to Machine Code (assembly_parser)](#assembly_parser)
+[4. MIPS Emulator (mips_emu)](#mips_emu)
+
+[5. Assembly to Machine Code (assembly_parser)](#assembly_parser)
 <p>
 <br>
 </p>
@@ -485,6 +487,50 @@ Multiple users talking to each other on the server.
 
 <br>
 
+### zombie_game
+<p>
+Description: 
+  <br>
+•	Developed entities that interact with each other and their PImage grid environment
+  <br>
+•	Implemented A* Search Algorithm to improve entities' pathing strategy from Depth First Search
+  <br>
+•	Employed Object Oriented Programming inheritance and polymorphism to manage and simplify dynamic entities' interactions while maintaining its hierarchy
+  <br>
+•	Utilized Streams to filter and map grid Points our entities can actually move to in our A* Algorithm
+  <br>
+  <br>
+Date: Nov 2020
+  <br>
+Language: Java
+  <br>
+
+[Source Code](https://github.com/darylng154/Project-5)
+  <br>
+</p>
+
+<p align = "center">
+<img src = "https://github.com/darylng154/Projects/blob/main/README_files/zombie_game/game.png?raw=true" width=80% height=80%>
+  <br>
+Zombies chasing after Fish who can turn into other entities.
+  <br>
+  <br>
+<img src = "https://github.com/darylng154/Projects/blob/main//README_files/zombie_game/entity.png?raw=true" width=80% height=80%>
+  <br>
+XML Graph of the Entity Hierarchy.
+  <br>
+  <br>
+<img src = "https://github.com/darylng154/Projects/blob/main//README_files/zombie_game/world.png?raw=true" width=80% height=80%>
+  <br>
+XML Graph of the World Hierarchy.
+  <br>
+  <br>
+</p>
+
+[Back to Table of Contents](#table-of-contents)
+
+<br>
+
 ### cache_sim
 <p>
 Description: 
@@ -628,13 +674,13 @@ Description:
   <br>
 Engineered a microcontroller on a Basys 3 FPGA board using Verilog in Vivado to parse and run assembly as RISC-V instructions.
   <br>
-- Created a Program Counter, Branch Address Generator, Decoder, etc to translate, step, and jump through machine code instructions in Memory
+• Created a Program Counter, Branch Address Generator, Decoder, etc to translate, step, and jump through machine code instructions in Memory
   <br>
-- Built a Register File and Arithmetic Logic Unit to manipulate data and differentiate what the current instruction is based on its opcode
+•	Built a Register File and Arithmetic Logic Unit to manipulate data and differentiate what the current instruction is based on its opcode
   <br>
-- Implemented interrupt service routines by adding a Control and Status Register to give the system more flexibility in the program flow
+•	Implemented interrupt service routines by adding a Control and Status Register to give the system more flexibility in the program flow
   <br>
-- Utilized Vivado's test bench simulator to test and ensure accurate data, behavior, and clock cycle timing  
+•	Utilized Vivado's test bench simulator to test and ensure accurate data, behavior, and clock cycle timing  
   <br>
   <br>
 Date: Apr 2021 - May 2021
