@@ -3,7 +3,8 @@
 
 ## Description
 
-This repository showcases projects that I am proud of. You can find the links to the source code under each projects' programming language.
+This repository showcases projects that I am proud of. I organized it by the language and then how interesting it was.
+You can find the links to the source code under each projects' programming language.
 My personal favorites are Google Maps and AWS Frontend Login and Sign-Up as they display my passion and skills to learn a new language (Dart)
 and framework (Flutter) to work with my clients by providing them with neat and well-documented code to continue on with the next team.
 
@@ -29,17 +30,17 @@ React:
 
 C:
 
-[1. Operating System Virtual Memory Simulator (mem_sim)](#mem_sim)
+[1. Remote File Copy (rcopy)](#rcopy)
 
-[2. Operating System Scheduler Simulator (sched_sim)](#sched_sim)
+[2. Operating System Virtual Memory Simulator (mem_sim)](#mem_sim)
 
 [3. Lightweight Process Library (lwp)](#lwp)
 
-[4. Remote File Copy (rcopy)](#rcopy)
+[4. Operating System Scheduler Simulator (sched_sim)](#sched_sim)
 
-[5. TCP Chat Program (tcp_chat)](#tcp_chat)
+[5. Network Protocol Header Parser (trace)](#trace)
 
-[6. Network Protocol Header Parser (trace)](#trace)
+[6. TCP Chat Program (tcp_chat)](#tcp_chat)
 <p>
 <br>
 </p>
@@ -300,93 +301,6 @@ Login Page to favorite Pokemons.
 
 <br>
 
-### mem_sim
-<p>
-Description: 
-  <br>
-Operating System Virtual Memory simulator, which translates virtual memory addresses (like those that come from a process) to physical memory addresses (as managed by
-the operating system). Only focuses on read operations using a Translation Lookaside Buffer (TLB), Page Table, Backing store, and Simulated Physical memory.
-  <br>
-  <br>
-Date: May 2023
-  <br>
-Language: C
-  <br>
-
-[Source Code](https://github.com/darylng154/portfolio/tree/mem_sim)
-  <br>
-</p>
-
-<p align = "center">
-<img src = "https://github.com/darylng154/Projects/blob/main/README_files/mem_sim/demo.png?raw=true" width=75% height=75%>
-  <br>
-Terminal output of the Virtual memory simulator using FIFO.
-  <br>
-  <br>
-</p>
-
-[Back to Table of Contents](#table-of-contents)
-
-<br>
-
-### sched_sim
-<p>
-Description: 
-  <br>
-Operating System Scheduler simulator that supports multiple scheduling algorithms, and computes the turnaround and wait times for each job submitted to the simulator.
-Job file contains a list of jobs' burst and arrival times in any order.
-  <br>
-  <br>
-Date: May 2023
-  <br>
-Language: C
-  <br>
-
-[Source Code](https://github.com/darylng154/portfolio/tree/sched_sim)
-  <br>
-</p>
-
-<p align = "center">
-<img src = "https://github.com/darylng154/Projects/blob/main/README_files/sched_sim/demo.png?raw=true" width=50% height=50%>
-  <br>
-Terminal output of the Schedule Simulator for all supported algorithms.
-  <br>
-  <br>
-</p>
-
-[Back to Table of Contents](#table-of-contents)
-
-<br>
-
-### lwp
-<p>
-Description: 
-  <br>
-Creates an independent thread to control a sequence of executed instructions that is executing in the same address space of another lightweight process.
-Modifies the process' stack registers/pointers to jump and execute a different function that was not in the original context.
-  <br>
-  <br>
-Date: Apr 2023
-  <br>
-Language: C
-  <br>
-
-[Source Code](https://github.com/darylng154/portfolio/tree/lwp)
-  <br>
-</p>
-
-<p align = "center">
-<img src = "https://github.com/darylng154/Projects/blob/main/README_files/lwp/demo.png?raw=true" width=75% height=75%>
-  <br>
-Creating and using a LWP thread in numbermain's stack.
-  <br>
-  <br>
-</p>
-
-[Back to Table of Contents](#table-of-contents)
-
-<br>
-
 ### rcopy
 <p>
 Description: 
@@ -424,27 +338,85 @@ Big file (424,232 Bytes) transfer with 1% (0.1) error percent.
 
 <br>
 
-### tcp_chat
+### mem_sim
 <p>
 Description: 
   <br>
-TCP Chat program. There are 2 programs: one for the server and the other for the client(s). You can check who is logged and send messages to users in real time. 
-Uses my own Handle/Client Table that is a dynamically allocated array to keep track of the users logged in. The supported commands are described in the README.
+Operating System Virtual Memory simulator, which translates virtual memory addresses (like those that come from a process) to physical memory addresses (as managed by
+the operating system). Only focuses on read operations using a Translation Lookaside Buffer (TLB), Page Table, Backing store, and Simulated Physical memory.
   <br>
   <br>
-Date: Feb 2023
+Date: May 2023
   <br>
 Language: C
   <br>
 
-[Source Code](https://github.com/darylng154/portfolio/tree/tcp_chat)
+[Source Code](https://github.com/darylng154/portfolio/tree/mem_sim)
   <br>
 </p>
 
 <p align = "center">
-<img src = "https://github.com/darylng154/Projects/blob/main/README_files/tcp_chat/demo.png?raw=true" width=75% height=75%>
+<img src = "https://github.com/darylng154/Projects/blob/main/README_files/mem_sim/demo.png?raw=true" width=75% height=75%>
   <br>
-Multiple users talking to each other on the server.
+Terminal output of the Virtual memory simulator using FIFO.
+  <br>
+  <br>
+</p>
+
+[Back to Table of Contents](#table-of-contents)
+
+<br>
+
+### lwp
+<p>
+Description: 
+  <br>
+Creates an independent thread to control a sequence of executed instructions that is executing in the same address space of another lightweight process.
+Modifies the process' stack registers/pointers to jump and execute a different function that was not in the original context.
+  <br>
+  <br>
+Date: Apr 2023
+  <br>
+Language: C
+  <br>
+
+[Source Code](https://github.com/darylng154/portfolio/tree/lwp)
+  <br>
+</p>
+
+<p align = "center">
+<img src = "https://github.com/darylng154/Projects/blob/main/README_files/lwp/demo.png?raw=true" width=75% height=75%>
+  <br>
+Creating and using a LWP thread in numbermain's stack.
+  <br>
+  <br>
+</p>
+
+[Back to Table of Contents](#table-of-contents)
+
+<br>
+
+### sched_sim
+<p>
+Description: 
+  <br>
+Operating System Scheduler simulator that supports multiple scheduling algorithms, and computes the turnaround and wait times for each job submitted to the simulator.
+Job file contains a list of jobs' burst and arrival times in any order.
+  <br>
+  <br>
+Date: May 2023
+  <br>
+Language: C
+  <br>
+
+[Source Code](https://github.com/darylng154/portfolio/tree/sched_sim)
+  <br>
+</p>
+
+<p align = "center">
+<img src = "https://github.com/darylng154/Projects/blob/main/README_files/sched_sim/demo.png?raw=true" width=50% height=50%>
+  <br>
+Terminal output of the Schedule Simulator for all supported algorithms.
   <br>
   <br>
 </p>
@@ -473,6 +445,35 @@ Language: C
 <img src = "https://github.com/darylng154/Projects/blob/main/README_files/trace/trace-1.png?raw=true" width=50% height=50%>
   <br>
 Packet #22's Ethernet, IP, TCP Header information parsed.
+  <br>
+  <br>
+</p>
+
+[Back to Table of Contents](#table-of-contents)
+
+<br>
+
+### tcp_chat
+<p>
+Description: 
+  <br>
+TCP Chat program. There are 2 programs: one for the server and the other for the client(s). You can check who is logged and send messages to users in real time. 
+Uses my own Handle/Client Table that is a dynamically allocated array to keep track of the users logged in. The supported commands are described in the README.
+  <br>
+  <br>
+Date: Feb 2023
+  <br>
+Language: C
+  <br>
+
+[Source Code](https://github.com/darylng154/portfolio/tree/tcp_chat)
+  <br>
+</p>
+
+<p align = "center">
+<img src = "https://github.com/darylng154/Projects/blob/main/README_files/tcp_chat/demo.png?raw=true" width=75% height=75%>
+  <br>
+Multiple users talking to each other on the server.
   <br>
   <br>
 </p>
